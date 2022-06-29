@@ -1,0 +1,12 @@
+Node JS 
+node.js is an open-source, cross-platform,javascript runtime enviroment built on chrome's v8 javascript engine that executes javascript code outside a web browser
+1.node js open source server enviroments its allow us to run on the server 
+2. it is a intermidiate between the frond end and the backend
+3. it will get the data from database and provide it to frontend
+4.we can perform CRUD operation in node js by in both synchronous and asynchronous way.this is the part of file system in node js .
+5. we can create the server with http and express also.with this we can send plain text,html,json response 
+
+how to used ?
+1. we need to install the node js on the system .
+2.after that to work with node js we need to create the package.json file 
+2.1 using npm init -y we create the package.json file 
